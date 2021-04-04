@@ -15,7 +15,7 @@ function animate() {
 
 	// draw a rect
 	ctx.fillStyle = "red"
-	ctx.fillRect(centerX - 50, centerY - 50, 100, 100)
+	ctx.fillRect(centerX - 25, centerY - 25, 50, 50)
 }
 // Calling the animate function
 animate()
