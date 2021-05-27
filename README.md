@@ -1,2 +1,3 @@
 # canvas-template
-HTML Canvas Template
+
+Boilerplate code for fullscreen HTML Canvas games
